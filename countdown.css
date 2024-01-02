@@ -1,0 +1,48 @@
+.sales-countdown-timer {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .timer-display {
+    
+    display: grid;
+        grid-template-columns: 25%  25% 25% 25%;
+        gap: 20px;
+  
+   
+  }
+  body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2DJN-I1a9tfPh9SAbiO1CfKHKppfWtWiZKH__AxD3w&s);
+    padding: 200px;
+    background-position: cover;
+    background-size: 100%;
+  }
+  h1{
+  
+    font-weight: bold;
+  
+  }
+  .heading{
+  
+    font-weight: bolder;
+   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  img{
+    height: 200px;
+    margin: 20px;
+
+  }
+  
+  .images{
+    display: flex;
+    
+    justify-content: center;
+  }
+  
+  
+  
+  
+  
+  
